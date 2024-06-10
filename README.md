@@ -1,3 +1,3 @@
 # Projects
 
-- (fretboard-explorer)[https://bartsides.github.io/fretboard-explorer]
+- (https://bartsides.github.io/fretboard-explorer)[fretboard-explorer]
