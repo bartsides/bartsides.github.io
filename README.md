@@ -4,7 +4,7 @@
 A music theory website for guitarists written in VueJS.
 
 ## [tulip](https://bartsides.github.io/tulip)
-Synth based on the Orchid synth.
+Synth web app based on the Orchid.
 
 ## [particle-sim](https://bartsides.github.io/particle-sim)
 A little particle simulator written in Go.
